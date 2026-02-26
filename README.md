@@ -18,15 +18,25 @@ A aplicação permite operações completas de CRUD com exclusão lógica.
 
 ## Estrutura de Pastas
 api-usuarios/
+
 └── src/
+
 ├── app.js
+
 ├── routes/
+
 │ └── user.routes.js
+
 ├── controllers/
+
 │ └── user.controller.js
+
 ├── services/
+
 │ └── user.service.js
+
 └── database/
+
 └── db.js
 
 ## Instalação e Execução
