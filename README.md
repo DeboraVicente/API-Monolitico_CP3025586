@@ -43,7 +43,7 @@ api-usuarios/
 
 1. Clonar o repositório:
 
-git clone <[API-Monolitico_CP3025586](https://github.com/DeboraVicente/API-Monolitico_CP3025586.git)>
+git clone <[url-do-repositorio](https://github.com/DeboraVicente/API-Monolitico_CP3025586.git)>
 cd api-usuarios
 
 2. Instalar dependências:

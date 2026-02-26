@@ -1,0 +1,15 @@
+{
+  "name": "api-usuarios",
+  "version": "1.0.0",
+  "description": "API REST monolítica para gerenciamento de usuários utilizando Node.js, Express e SQLite.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Debora Evelyn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
